@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jobhunt/static/css/main.b2f84381.css",
-    "main.js": "/jobhunt/static/js/main.dc77fcbf.js",
+    "main.js": "/jobhunt/static/js/main.39cd2003.js",
     "static/media/cool-background.png": "/jobhunt/static/media/cool-background.8c252db8e4acab4196d4.png",
     "static/media/tesla.png": "/jobhunt/static/media/tesla.07f612597196a0c119d9.png",
     "static/media/sap.jpeg": "/jobhunt/static/media/sap.b2bc7f8625809466165a.jpeg",
@@ -16,10 +16,10 @@
     "static/media/cognizant.webp": "/jobhunt/static/media/cognizant.322b3a8a75fff5cbbc7d.webp",
     "index.html": "/jobhunt/index.html",
     "main.b2f84381.css.map": "/jobhunt/static/css/main.b2f84381.css.map",
-    "main.dc77fcbf.js.map": "/jobhunt/static/js/main.dc77fcbf.js.map"
+    "main.39cd2003.js.map": "/jobhunt/static/js/main.39cd2003.js.map"
   },
   "entrypoints": [
     "static/css/main.b2f84381.css",
-    "static/js/main.dc77fcbf.js"
+    "static/js/main.39cd2003.js"
   ]
 }
